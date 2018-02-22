@@ -10,7 +10,7 @@ export class TypeaheadPo extends BaseComponent {
     itemTemplate: 'demo-typeahead-item-template',
     optionField: 'demo-typeahead-field',
     asyncData: 'demo-typeahead-async',
-    reactiveForms: 'demo-typeahead-forms',
+    reactiveForms: 'demo-typeahead-reactive-form',
     groupResults: 'demo-typeahead-grouping',
     dropup: 'demo-typeahead-dropup',
     scrollable: 'demo-typeahead-scrollable'

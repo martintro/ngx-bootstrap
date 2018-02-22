@@ -6,8 +6,6 @@ export class SortablePo extends BaseComponent {
   ghLinkToComponent = 'https://github.com/valor-software/ngx-bootstrap/blob/development/src/sortable';
 
   exampleDemosArr = {
-    stringItems: 'simple-items-demo',
-    complexModel: 'complex-datamodel-demo',
-    customTemplate: 'custom-item-template-demo'
+    basic: 'basic-demo'
   };
 }
